@@ -54,7 +54,7 @@ The **Supermarket Management System** is a desktop-based application built in **
 |-------------|------------|-----------------------|
 | CID         | INT (PK)   | Category ID          |
 | Category    | VARCHAR   | Product Category Name |
-
+.
 - Install **JDK 8+**  
 - Install **MySQL Server**  
 - Install **NetBeans IDE (or any Java IDE of your choice)**  
