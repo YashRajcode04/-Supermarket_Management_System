@@ -59,4 +59,4 @@ The **Supermarket Management System** is a desktop-based application built in **
 - Install **MySQL Server**  
 - Install **NetBeans IDE (or any Java IDE of your choice)**  
 
-
+.
